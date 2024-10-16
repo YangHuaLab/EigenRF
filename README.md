@@ -40,4 +40,4 @@ The Eigen_RF function returns a list with the normalized peak table, facilitatin
 This research was funded by the National Key R&D Program of China and the National Natural Science Foundation of China.
 
 # Authors:
-Chencheng Tang, Dongfang Huang, Xudong Xing, Hua Yang.
+Chencheng Tang, Dongfang Huang, Xudong Xing and Hua Yang.
