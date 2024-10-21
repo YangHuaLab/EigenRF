@@ -3,6 +3,11 @@
 # Overview
 EigenRF is an R package designed to improve the normalization of metabolomics data. It enhances the previous EigenMS method by incorporating a random forest regression model to capture nonlinear biological variations of interest. This method not only eliminates systematic errors but also preserves the biological variations of interest, leading to improved accuracy and reproducibility in metabolomics research.
 
+# Key Features
+Advanced Normalization: Integrates random forest regression to address nonlinearities, enhancing the accuracy of data normalization.
+Data Preservation: Designed to maintain the integrity of biological variations, ensuring that the normalized data reflects true biological differences.
+Enhanced Reproducibility: The method is developed with a focus on improving the reproducibility of metabolomics studies, allowing for more consistent results across different datasets and experimental conditions.
+
 # Installation
 You can install the EigenRF package directly from GitHub using the following command:
 
